@@ -13,14 +13,14 @@
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
   "nickNameBot": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
-  "prefix": "/",
+  "prefix": "-",
   "adminOnly": {
     "enable": false,
     "ignoreCommand": []
   },
   "adminBot": [
-    "100078049308655",
-    "61577213967981"
+    "100076343334427",
+    "100076343334427"
   ],
   "reactUnsend": {
     "enable": true,
@@ -31,8 +31,8 @@
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "100083039411474",
-      "100063840894133"
+      "100076343334427",
+      "100076343334427"
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
